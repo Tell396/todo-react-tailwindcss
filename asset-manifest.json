@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-react-tailwindcss/static/css/main.8d7a4431.css",
+    "main.js": "/todo-react-tailwindcss/static/js/main.41c933ac.js",
+    "index.html": "/todo-react-tailwindcss/index.html",
+    "main.8d7a4431.css.map": "/todo-react-tailwindcss/static/css/main.8d7a4431.css.map",
+    "main.41c933ac.js.map": "/todo-react-tailwindcss/static/js/main.41c933ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d7a4431.css",
+    "static/js/main.41c933ac.js"
+  ]
+}
